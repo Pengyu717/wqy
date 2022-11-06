@@ -3,7 +3,7 @@
 ## 简介
 文泉驿是一个开源汉字字体项目，由旅美学者房骞骞（FangQ）于 2004 年 10 月创建，集中力量解决 GNU/Linux 高质量中文字体匮乏的状况。
 
-这是[文泉驿](https://sourceforge.net/projects/wqy/)项目部分字体文件的备份。
+这是[文泉驿](http://wenq.org)项目部分字体文件的备份。
 
 原项目自 2011 年起，疑似不再有人维护。2014 年 7 月 16 日，Adobe 公司与 Google 公司发布了一款新的开源字体**思源黑体（Source Han Sans／Noto Sans CJK）**，从此开源社区有了更好的中文字体选择。
 
